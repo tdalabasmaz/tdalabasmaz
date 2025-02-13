@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tugce</h1>
-<h3 align="center">Software Developer (Love Front-end Development)</h3>
+<h3 align="center">Software Developer (Front-end Development)</h3>
 
 - 🌱 I’m currently learning **React, Angular, NodeJs, ExpressJs, NextJs, Flutter**
 
